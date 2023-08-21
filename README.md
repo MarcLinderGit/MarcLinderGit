@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marc Linder</h1>
-<h3 align="center">Experienced scientist with over five years of experience in large-scale big data research with a keen eye for aesthetic excellence in communicating results intuitively to stakeholders. Eager to transfer scientific rigor, relentless work-ethic, and excellent team working skills into powerful data science that offers actionable insights to inform and guide successful managerial decision-making.</h3>
+<h3 align="center">Data scientist with over five years of experience in large-scale big data research with a keen eye for aesthetic excellence in communicating results intuitively to stakeholders. Eager to transfer scientific rigor, relentless work-ethic, and excellent team working skills into powerful data science that offers actionable insights to inform and guide successful managerial decision-making.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marclindergit&label=Profile%20views&color=0e75b6&style=flat" alt="marclindergit" /> </p>
 
