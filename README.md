@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **R, Python, SQL**
   
-- 📃 Read about my most recent research findings at [Springer](https://link.springer.com/content/pdf/10.1007/s11747-022-00908-0.pdf?pdf=button)
+- 📃 Read about my most recent research findings published in the [Journal of the Academy of Marketing Science](https://link.springer.com/content/pdf/10.1007/s11747-022-00908-0.pdf?pdf=button)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
