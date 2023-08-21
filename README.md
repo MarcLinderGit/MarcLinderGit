@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marclindergit" alt="marclindergit" /></a> </p>
 
+- 📃 Read about my most recent research findings published in the [Journal of the Academy of Marketing Science](https://link.springer.com/content/pdf/10.1007/s11747-022-00908-0.pdf)
+
 - 🌱 I’m currently learning **SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MarcLinderGit](https://github.com/MarcLinderGit)
 
 - 💬 Ask me about **R, Python, SQL**
   
-- 📃 Read about my most recent research findings published in the [Journal of the Academy of Marketing Science](https://link.springer.com/content/pdf/10.1007/s11747-022-00908-0.pdf?pdf=button)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
