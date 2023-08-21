@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MarcLinderGit](https://github.com/MarcLinderGit)
+- 👨‍💻 Many of my projects are available on [GitHub](https://github.com/MarcLinderGit)
 
 - 💬 Ask me about **R, Python, SQL**
   
