@@ -29,10 +29,5 @@
 </p>
 
 
-
-# <p><img align="left" src="https://marc-linder-git.vercel.app/api/top-langs?username=marclindergit&show_icons=true&locale=en&layout=compact" alt="marclindergit" /></p>
-
-# <p>&nbsp;<img align="center" src="https://marc-linder-git.vercel.app/api?username=marclindergit&show_icons=true&locale=en" alt="marclindergit" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marclindergit&" alt="marclindergit" /></p>
 
