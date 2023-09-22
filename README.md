@@ -12,7 +12,7 @@
 - 💬 Ask me about **R, Python, SQL**
 
 <h3 align="left">My educational repositories:</h3>
-Given by y career as research, my daily activities involed advanced statistical analysis in R. While I cannot share these projects publically, here's a compilation of Python projects I've undertaken for educational purposes. Feel free to click on the project name to explore the details of each project.
+Given by my career in academic research, my daily activities involed advanced statistical analysis in R. While I cannot share these projects publically, here's a compilation of Python projects I've undertaken for educational purposes. Feel free to click on the project name to explore the details of each project.
 
 
 | ID | Project Name                                                                             | Data Science Concepts Showcased           |
