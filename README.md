@@ -11,8 +11,30 @@
 
 - 💬 Ask me about **R, Python, SQL**
 
-<h3 align="left">My projects:</h3>
-- Text
+<h3 align="left">My educational repositories:</h3>
+As I continue my journey of daily learning and expand my horizons, here's a compilation of Python projects I've undertaken for educational purposes. Feel free to click on the repository links to explore the details of each project.
+
+
+| ID | Project Name                 | Data Science Concepts Showcased           | Repository | 
+| -- |----------------------        |------------------------------------       | -----------| 
+| 1 | US Medical Insurance Cost     | Exploratory Data Analysis (EDA)           | https://github.com/MarcLinderGit/us_medical_insurance_cost
+| 2 | Life Expectancy & GDP         | Data Visualization                        | https://github.com/MarcLinderGit/life_expectancy_gdp
+| 3 | Stock Price Prediction        | Linear Regression                         | https://github.com/MarcLinderGit/tennis_ace
+| 4 | Census Income 1994            | Logistic Regression                       | https://github.com/MarcLinderGit/census_income_1994 
+| 5 | Breast Cancer                 | K-Nearest Neighbors (KNN) classification  | https://github.com/MarcLinderGit/breast_cancer
+| 7 | Flags                         | Decision Trees (incl. pruning)            | https://github.com/MarcLinderGit/flags
+| 8 | Obesity                       | Warpper Methods                           | https://github.com/MarcLinderGit/obesity
+| 9 | Wine Qualiy                   | Regularization                            | https://github.com/MarcLinderGit/wine_quality
+| 10 | Raisins                      | Hyperparameter Tuning                     | https://github.com/MarcLinderGit/raisins
+| 11 | Particles                    | Principial Component Analysis             | https://github.com/MarcLinderGit/particles
+
+<h3 align="left">My personal repositories:</h3>
+Beyond coding for educatioanl purposes, I do enjoy coding for fun in my free time. Here's a compilation of projects I've undertaken with various objectives. Again, feel free to click on the repository links to explore the details of each project.
+
+| ID | Project Name                                     | Objective                                                                                                     |   Language    | Repository | 
+| -- |----------------------                            |------------------------------------| -----|   -----| 
+| 1 | Hierarchical Bayesian multinomial logit analysis  | Create lighthouse/sawtooth report content and structure of hierarchical Bayes logistic regression analysis    |  R            | https://github.com/MarcLinderGit/hb_lighthouse_report_in_R
+| 2 | NFL Stats                                         | Scraping NFL stats from the official website for the 2023 season, covering multiple categories                | Python        | https://github.com/MarcLinderGit/NFL_Stats
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
