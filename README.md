@@ -20,13 +20,14 @@ Given by my career in academic research, my daily activities involed advanced st
 | 1 | [US Medical Insurance Cost](https://github.com/MarcLinderGit/us_medical_insurance_cost)   | Exploratory Data Analysis (EDA)           | 
 | 2 | [Life Expectancy & GDP](https://github.com/MarcLinderGit/life_expectancy_gdp)             | Data Visualization                        | 
 | 3 | [Stock Price Prediction](https://github.com/MarcLinderGit/tennis_ace)                     | Linear Regression                         | 
-| 4 | [Census Income 1994](https://github.com/MarcLinderGit/census_income_1994)                 | Logistic Regression                       | 
+| 4 | [Census Income (LogReg)](https://github.com/MarcLinderGit/census_income_lr)               | Logistic Regression                       | 
 | 5 | [Breast Cancer](https://github.com/MarcLinderGit/breast_cancer)                           | K-Nearest Neighbors (KNN) classification  | 
 | 7 | [Flags](https://github.com/MarcLinderGit/flags)                                           | Decision Trees (incl. pruning)            | 
 | 8 | [Obesity](https://github.com/MarcLinderGit/obesity)                                       | Warpper Methods                           | 
 | 9 | [Wine Qualiy](https://github.com/MarcLinderGit/wine_quality)                              | Regularization                            | 
 | 10 | [Raisins](https://github.com/MarcLinderGit/raisins)                                      | Hyperparameter Tuning                     | 
 | 11 | [Particles](https://github.com/MarcLinderGit/particles)                                  | Principial Component Analysis             | 
+| 12 | [Census Income (RanFor)](https://github.com/MarcLinderGit/census_income_lr)              | Random Forest                             | 
 
 <h3 align="left">My personal repositories:</h3>
 Beyond coding for educatioanl purposes, I do enjoy coding for fun in my free time. Here's a compilation of projects I've undertaken with various objectives. Again, feel free to click on the project name to explore the details of each project.
