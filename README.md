@@ -15,7 +15,7 @@
 Given by my career in academic research, my daily activities involed advanced statistical analysis in R. While I cannot share these projects publically, here's a compilation of Python projects I've undertaken for educational purposes. Feel free to click on the project name to explore the details of each project.
 
 
-| ID | Project Name                                                                             | Data Science Concepts Showcased           |
+| ID | Project Name / Dataset                                                                            | Data Science Concepts Showcased           |
 | -- |---------------------------------------------------------------------------------------   |------------------------------------       |
 | 1 | [US Medical Insurance Cost](https://github.com/MarcLinderGit/us_medical_insurance_cost)   | Exploratory Data Analysis (EDA)           | 
 | 2 | [Life Expectancy & GDP](https://github.com/MarcLinderGit/life_expectancy_gdp)             | Data Visualization                        | 
@@ -23,7 +23,7 @@ Given by my career in academic research, my daily activities involed advanced st
 | 4 | [Census Income (LogReg)](https://github.com/MarcLinderGit/census_income_lr)               | Logistic Regression                       | 
 | 5 | [Breast Cancer](https://github.com/MarcLinderGit/breast_cancer)                           | K-Nearest Neighbors (KNN) classification  | 
 | 7 | [Flags](https://github.com/MarcLinderGit/flags)                                           | Decision Trees (incl. pruning)            | 
-| 8 | [Obesity](https://github.com/MarcLinderGit/obesity)                                       | Warpper Methods                           | 
+| 8 | [Obesity](https://github.com/MarcLinderGit/obesity)                                       | Wrapper Methods                           | 
 | 9 | [Wine Qualiy](https://github.com/MarcLinderGit/wine_quality)                              | Regularization                            | 
 | 10 | [Raisins](https://github.com/MarcLinderGit/raisins)                                      | Hyperparameter Tuning                     | 
 | 11 | [Particles](https://github.com/MarcLinderGit/particles)                                  | Principial Component Analysis             | 
