@@ -15,7 +15,7 @@
 Given by my career in academic research, my daily activities involed advanced statistical analysis in R. While I cannot share these projects publically, here's a compilation of Python projects I've undertaken for educational purposes. Feel free to click on the project name to explore the details of each project.
 
 
-| ID | Project Name / Dataset                                                                            | Data Science Concepts Showcased           |
+| ID | Project Name / Dataset                                                                   | Data Science Concepts Showcased           |
 | -- |---------------------------------------------------------------------------------------   |------------------------------------       |
 | 1 | [US Medical Insurance Cost](https://github.com/MarcLinderGit/us_medical_insurance_cost)   | Exploratory Data Analysis (EDA)           | 
 | 2 | [Life Expectancy & GDP](https://github.com/MarcLinderGit/life_expectancy_gdp)             | Data Visualization                        | 
@@ -28,6 +28,8 @@ Given by my career in academic research, my daily activities involed advanced st
 | 10 | [Raisins](https://github.com/MarcLinderGit/raisins)                                      | Hyperparameter Tuning                     | 
 | 11 | [Particles](https://github.com/MarcLinderGit/particles)                                  | Principial Component Analysis             | 
 | 12 | [Census Income (RanFor)](https://github.com/MarcLinderGit/census_income_rf)              | Random Forest Classification              | 
+| 13 | [Book Recommender](https://github.com/MarcLinderGit/book_recommender)                    | Recommender System                        | 
+| 14 | [Email Similarity](https://github.com/MarcLinderGit/email_similarity)                    | Naive Bayes Classification                | 
 
 <h3 align="left">My personal repositories:</h3>
 Beyond coding for educatioanl purposes, I do enjoy coding for fun in my free time. Here's a compilation of projects I've undertaken with various objectives. Again, feel free to click on the project name to explore the details of each project.
