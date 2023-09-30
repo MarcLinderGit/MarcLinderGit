@@ -29,8 +29,9 @@ Given by my career in academic research, my daily activities involed advanced st
 | 11 | [Particles](https://github.com/MarcLinderGit/particles)                                  | Principial Component Analysis             | 
 | 12 | [Census Income (RanFor)](https://github.com/MarcLinderGit/census_income_rf)              | Random Forest Classification              | 
 | 13 | [Book Recommender](https://github.com/MarcLinderGit/book_recommender)                    | Recommender System                        | 
-| 14 | [Email Similarity](https://github.com/MarcLinderGit/email_similarity)                    | Naive Bayes Classification                | 
-| 15 | [Logic Gates](https://github.com/MarcLinderGit/logic_gates)                              | Perceptrons                               | 
+| 14 | [Strike Zone](https://github.com/MarcLinderGit/strike_zone)                              | Support Vector Machines                   | 
+| 15 | [Email Similarity](https://github.com/MarcLinderGit/email_similarity)                    | Naive Bayes Classification                | 
+| 16 | [Logic Gates](https://github.com/MarcLinderGit/logic_gates)                              | Perceptrons                               | 
 
 <h3 align="left">My personal repositories:</h3>
 Beyond coding for educatioanl purposes, I do enjoy coding for fun in my free time. Here's a compilation of projects I've undertaken with various objectives. Again, feel free to click on the project name to explore the details of each project.
