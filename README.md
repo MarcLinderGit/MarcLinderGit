@@ -12,7 +12,7 @@
 - 💬 Ask me about **R, Python, SQL**
 
 <h3 align="left">My educational repositories:</h3>
-Given by my career in academic research, my daily activities involed advanced statistical analysis in R. While I cannot share these projects publically, here's a compilation of Python projects I've undertaken for educational purposes. Feel free to click on the project name to explore the details of each project.
+Given by my career in academic research, my daily activities involed advanced statistical analysis in R. While I cannot share these projects publically, here's a compilation of Python data science projects I've undertaken for educational purposes. Feel free to click on the project name to explore the details of each project.
 
 
 | ID | Project Name / Dataset                                                                   | Data Science Concepts Showcased           |
@@ -32,6 +32,12 @@ Given by my career in academic research, my daily activities involed advanced st
 | 14 | [Strike Zone](https://github.com/MarcLinderGit/strike_zone)                              | Support Vector Machines                   | 
 | 15 | [Email Similarity](https://github.com/MarcLinderGit/email_similarity)                    | Naive Bayes Classification                | 
 | 16 | [Logic Gates](https://github.com/MarcLinderGit/logic_gates)                              | Perceptrons                               | 
+
+In addition, I am currently working on extending my knowledge on natural language processing (NLP). Feel free to click on the project name to explore the details of each project. 
+
+| ID | Project Name / Dataset                                                                   | NLP Facet Showcased                       |
+| -- |---------------------------------------------------------------------------------------   |------------------------------------       |
+| 1 | [Classical Texts](https://github.com/MarcLinderGit/Classic_Texts)                         | Language Parsing                          | 
 
 <h3 align="left">My personal repositories:</h3>
 Beyond coding for educatioanl purposes, I do enjoy coding for fun in my free time. Here's a compilation of projects I've undertaken with various objectives. Again, feel free to click on the project name to explore the details of each project.
