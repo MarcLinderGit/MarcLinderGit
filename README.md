@@ -38,6 +38,7 @@ In addition, I am currently working on extending my knowledge on natural languag
 | ID | Project Name / Dataset                                                                   | NLP Facet Showcased                       |
 | -- |---------------------------------------------------------------------------------------   |------------------------------------       |
 | 1 | [Classical Texts](https://github.com/MarcLinderGit/Classic_Texts)                         | Language Parsing                          | 
+| 2 | [Mystery Friend](https://github.com/MarcLinderGit/mystery_friend)                         | Bag-of-Words Language Quantification      | 
 
 <h3 align="left">My personal repositories:</h3>
 Beyond coding for educatioanl purposes, I do enjoy coding for fun in my free time. Here's a compilation of projects I've undertaken with various objectives. Again, feel free to click on the project name to explore the details of each project.
