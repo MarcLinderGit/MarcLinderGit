@@ -38,7 +38,7 @@
     />
 </div>
 
-<div align="left">
+
 <h3 align="center">Experienced scientist with over five years of experience in large-scale big data research with a keen eye for aesthetic excellence in communicating results intuitively to stakeholders. Eager to transfer scientific rigor, relentless work-ethic, and excellent team working skills into powerful data science that offers actionable insights to inform and guide successful managerial decision-making.</h3>
 
 <div align="center">
@@ -99,9 +99,24 @@ Beyond coding for educatioanl purposes, I do enjoy coding for fun in my free tim
 | ID | Project Name                                                                                                     | Objective                                                                                                     |   Language    |   Package in Focus    |  Function(s)  |
 | -- |----------------------                                                                                            |------------------------------------                                                                           | --------------|-----------------------|---------------|
 | 1  | [Hierarchical Bayesian multinomial logit analysis](https://github.com/MarcLinderGit/hb_lighthouse_report_in_R)   | Create lighthouse/sawtooth report content and structure of hierarchical Bayes logistic regression analysis    |  R            | ChoiceModelR          |               |
-| 2  | [NFL Stats](https://github.com/MarcLinderGit/NFL_Stats)                                                          | Scrape NFL stats from the official website for the 2023 season, covering multiple categories                  | Python        | bs4                   |BeautifulSoup  |
+| 2  | [NFL Stats](https://github.com/MarcLinderGit/NFL_Stats)                                                          | Scrape NFL stats from the official website for the 2023 season, covering multiple categories                  | Python        | .bs4                   |BeautifulSoup()  |
+
+
+
+
+<div>
+<details>
+  <summary><b>My Academic Publications</b></summary>
+Hennig-Thurau, T., Aliman, D.N., Herting, A.M., Cziehso, G., Linder, M. & Kübler, R. (2023) Social interactions in the metaverse: Framework, initial evidence, and research roadmap. Journal of the Academy of Marketing Science 51, 889–913. https://doi.org/10.1007/s11747-022-00908-0 <a href="https://link.springer.com/article/10.1007/s11747-022-00908-0">[link]</a>
+<br><br>
+
+Linder, M., Behrens, M. & Hennig-Thurau, T. (2023) Telling Great Stories with Ads: Determining the Drivers of Narrative Advertising Effectiveness. Proceedings of 2023 AMA Winter Academic Conference 34, 240-242 <a href="https://www.ama.org/wp-content/uploads/2023/04/2023-Winter-AMA-Proceedings-4.19-1.pdf#2c">[link]</a>
+  <br/>
+</div>
 
 <br>
+</details>
+
 
 <div align="center">
   <h2> <strong> 📚 Education Profiles </strong> </h2>
