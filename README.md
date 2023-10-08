@@ -47,13 +47,13 @@
   <div>
 <details>
   <summary><b>My Academic Contributions</b></summary>
-Hennig-Thurau, T., Aliman, D.N., Herting, A.M., Cziehso, G., Linder, M. & Kübler, R. (2023) Social interactions in the metaverse: Framework, initial evidence, and research roadmap. Journal of the Academy of Marketing Science 51, 889–913. https://doi.org/10.1007/s11747-022-00908-0 <a href="https://link.springer.com/article/10.1007/s11747-022-00908-0">[link]</a>
+Hennig-Thurau, T., Aliman, D.N., Herting, A.M., Cziehso, G., Linder, M. & Kübler, R. (2023) Social interactions in the metaverse: Framework, initial evidence, and research roadmap. Journal of the Academy of Marketing Science 51, 889–913.<br> <a href="https://link.springer.com/article/10.1007/s11747-022-00908-0">[link]</a>
 <br><br>
 
-Linder, M., Behrens, M. & Hennig-Thurau, T. (2023) Telling Great Stories with Ads: Determining the Drivers of Narrative Advertising Effectiveness. Proceedings of 2023 AMA Winter Academic Conference 34, 240-242 <a href="https://www.ama.org/wp-content/uploads/2023/04/2023-Winter-AMA-Proceedings-4.19-1.pdf#2c">[link]</a>
+Linder, M., Behrens, M. & Hennig-Thurau, T. (2023) Telling Great Stories with Ads: Determining the Drivers of Narrative Advertising Effectiveness. Proceedings of 2023 AMA Winter Academic Conference 34, 240-242 <br><a href="https://www.ama.org/wp-content/uploads/2023/04/2023-Winter-AMA-Proceedings-4.19-1.pdf#2c">[link]</a>
   <br/>
 
-*Kupfer, A.-K., Pähler vor der Holte, N., Kübler, R. & Hennig-Thurau, T. (2018) The Role of the Partner Brand's Social Media Power in Brand Alliances- Journal of Marketing 82, 25-44. https://doi.org/10.1509/jm.15.0536 <a href="https://journals.sagepub.com/doi/10.1509/jm.15.0536">[link]</a> <br>
+*Kupfer, A.-K., Pähler vor der Holte, N., Kübler, R. & Hennig-Thurau, T. (2018) The Role of the Partner Brand's Social Media Power in Brand Alliances- Journal of Marketing 82, 25-44. <br><a href="https://journals.sagepub.com/doi/10.1509/jm.15.0536">[link]</a> <br>
 **In supporting role as coder.*
 </div>
 <br>
