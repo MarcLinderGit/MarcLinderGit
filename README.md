@@ -33,7 +33,7 @@
 
 <div align="center">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&height=30&lines=Hi+%F0%9F%91%8B%2C+I'm+Marc+and+welcome+to+my+Git!"
+      src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=F7F7F7&background=1F1F1F85&center=true&vCenter=true&width=435&height=30&lines=Hi+%F0%9F%91%8B%2C+I'm+Marc+and+welcome+to+my+Git!"
       width=100%
     />
 </div>
