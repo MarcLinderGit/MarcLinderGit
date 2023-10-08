@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-  <h2> <strong>   </strong> </h2>
+  <h2> <strong>   </strong> </h2></div>
 
 <div align="center">
     <img
@@ -38,8 +38,9 @@
     />
 </div>
 
-
+<div>
 <h3 align="center">Experienced scientist with over five years of experience in large-scale big data research with a keen eye for aesthetic excellence in communicating results intuitively to stakeholders. Eager to transfer scientific rigor, relentless work-ethic, and excellent team working skills into powerful data science that offers actionable insights to inform and guide successful managerial decision-making.</h3>
+</div>
 
 <div align="center">
   <h2> <strong> Expert in </strong> </h2>
