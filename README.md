@@ -110,7 +110,7 @@ In addition, I am currently working on extending my knowledge on natural languag
 | 3 | [News Content](https://github.com/MarcLinderGit/news_content)                             | Term Frequency-Inverse Document Frequency (tf-idf)        |sklearn            |.feature_extraction.text   |TfidfTransformer(), TfidfVectorizer()  |
 | 4 | [Presidential Vocabulary](https://github.com/MarcLinderGit/Presidential_Vocabulary)       | Topic Modelling (Word Embeddings)                         |gensim             |.models                    |Word2Vec()                             |
 | 5 | [Neural Machine Translation (NMT)](https://github.com/MarcLinderGit/Machine_Translations) | Long short-term memory networks (LSTMs)                   |tensorflow         |.keras                     |LSTM()                                 |
-| 6 | [Multi-Topic Chatbot](https://github.com/MarcLinderGit/multi_chatbot)                     | Rule-based chatbots                                       |re                 |                           |                                       |
+| 6 | [Multi-Topic Chatbot](https://github.com/MarcLinderGit/multi_chatbot)                     | Rule-based chatbot using regex                            |re                 |                           |match()                                |
 
 
 
