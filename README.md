@@ -103,14 +103,16 @@ Given by my career in academic research, my daily activities involed advanced st
 <p align="left">
 In addition, I am currently working on extending my knowledge on natural language processing (NLP). Feel free to click on the project name to explore the details of each project. 
 
-| ID | Project Name / Dataset                                                                   | NLP Facet Showcased                                       | Package in Focus  | Module                    | Function(s)                           |
-| -- |---------------------------------------------------------------------------------------   |------------------------------------                       |-------------------|---------------------------|---------------------------------------|
-| 1 | [Classical Texts](https://github.com/MarcLinderGit/Classic_Texts)                         | Language Parsing                                          |nltk               |                           |RegexpParser()                         | 
-| 2 | [Mystery Friend](https://github.com/MarcLinderGit/mystery_friend)                         | Bag-of-Words Language Quantification                      |sklearn            |.feature_extraction.text   |CountVectorizer()                      |
-| 3 | [News Content](https://github.com/MarcLinderGit/news_content)                             | Term Frequency-Inverse Document Frequency (tf-idf)        |sklearn            |.feature_extraction.text   |TfidfTransformer(), TfidfVectorizer()  |
-| 4 | [Presidential Vocabulary](https://github.com/MarcLinderGit/Presidential_Vocabulary)       | Topic Modelling (Word Embeddings)                         |gensim             |.models                    |Word2Vec()                             |
-| 5 | [Neural Machine Translation (NMT)](https://github.com/MarcLinderGit/Machine_Translations) | Long short-term memory networks (LSTMs)                   |tensorflow         |.keras                     |LSTM()                                 |
-| 6 | [Multi-Topic Chatbot](https://github.com/MarcLinderGit/multi_chatbot)                     | Rule-based chatbot using regex                            |re                 |                           |match()                                |
+| ID | Project Name / Dataset                                                                       | NLP Facet Showcased                                       | Package in Focus  | Module                    | Function(s)                           |
+| -- |---------------------------------------------------------------------------------------       |------------------------------------                       |-------------------|---------------------------|---------------------------------------|
+| 1 | [Classical Texts](https://github.com/MarcLinderGit/Classic_Texts)                             | Language Parsing                                          |nltk               |                           |RegexpParser()                         | 
+| 2 | [Mystery Friend](https://github.com/MarcLinderGit/mystery_friend)                             | Bag-of-Words Language Quantification                      |sklearn            |.feature_extraction.text   |CountVectorizer()                      |
+| 3 | [News Content](https://github.com/MarcLinderGit/news_content)                                 | Term Frequency-Inverse Document Frequency (tf-idf)        |sklearn            |.feature_extraction.text   |TfidfTransformer(), TfidfVectorizer()  |
+| 4 | [Presidential Vocabulary](https://github.com/MarcLinderGit/Presidential_Vocabulary)           | Topic Modelling (Word Embeddings)                         |gensim             |.models                    |Word2Vec()                             |
+| 5 | [Neural Machine Translation (NMT)](https://github.com/MarcLinderGit/Machine_Translations)     | Long short-term memory networks (LSTMs)                   |tensorflow         |.keras                     |LSTM()                                 |
+| 6 | [Multi-Topic Chatbot](https://github.com/MarcLinderGit/multi_chatbot)                         | Rule-based chatbot using regex                            |re                 |                           |match()                                |
+| 7 | [Denver Broncos Restaurant Chatbot](https://github.com/MarcLinderGit/broncos_restaurant_bot)  | Retrieval-based chatbot using topic modelling             |misc.              |misc.                      |TfidfTransformer(),  Word2Vec()        |
+
 
 
 
