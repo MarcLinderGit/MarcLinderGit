@@ -112,6 +112,7 @@ In addition, I am currently working on extending my knowledge on natural languag
 | 5 | [Neural Machine Translation (NMT)](https://github.com/MarcLinderGit/Machine_Translations)     | Long short-term memory networks (LSTMs)                   |tensorflow         |.keras                     |LSTM()                                 |
 | 6 | [Multi-Topic Chatbot](https://github.com/MarcLinderGit/multi_chatbot)                         | Rule-based chatbot using regex                            |re                 |                           |match()                                |
 | 7 | [Denver Broncos Restaurant Chatbot](https://github.com/MarcLinderGit/broncos_restaurant_bot)  | Retrieval-based chatbot using topic modelling             |misc.              |misc.                      |TfidfTransformer(),  Word2Vec()        |
+| 8 | [Generative Chatbot](https://github.com/MarcLinderGit/generative_chatbot)                     | Generative chatbot using topic modelling                  |misc.              |misc.                      |TfidfTransformer(),  Word2Vec()        |
 
 
 
