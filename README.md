@@ -101,7 +101,7 @@ Given by my career in academic research, my daily activities involed advanced st
 
 <h3 align="left">Natrual Language Processing</h3>
 <p align="left">
-In addition, I am currently working on extending my knowledge on natural language processing (NLP). Feel free to click on the project name to explore the details of each project. 
+Here's also a compilation of Python natural language projects I've undertaken for educational purposes. Feel free to click on the project name to explore the details of each project. 
 
 | ID | Project Name / Dataset                                                                       | NLP Facet Showcased                                       | Package in Focus  | Module                    | Function(s)                           |
 | -- |---------------------------------------------------------------------------------------       |------------------------------------                       |-------------------|---------------------------|---------------------------------------|
@@ -114,6 +114,13 @@ In addition, I am currently working on extending my knowledge on natural languag
 | 7 | [Denver Broncos Restaurant Chatbot](https://github.com/MarcLinderGit/broncos_restaurant_bot)  | Retrieval-based chatbot using topic modelling             |misc.              |misc.                      |TfidfTransformer(),  Word2Vec()        |
 | 8 | [Generative Chatbot](https://github.com/MarcLinderGit/generative_chatbot)                     | Generative chatbot using topic modelling                  |misc.              |misc.                      |TfidfTransformer(),  Word2Vec()        |
 
+<h3 align="left">Machine Learning Engineering</h3>
+<p align="left">
+In addition, I am currently working on extending my knowledge on machine learning engineering. Feel free to click on the project name to explore the details of each project. 
+
+| ID | Project Name / Dataset                                                                       | NLP Facet Showcased                                       | Package in Focus  | Module                    | Function(s)                           |
+| -- |---------------------------------------------------------------------------------------       |------------------------------------                       |-------------------|---------------------------|---------------------------------------|
+| 1 | [Hierarchical Classes](https://github.com/MarcLinderGit/Hierarchical_Classes)                 | Hierarchical Classes, Object-Orienter Programming         |-                  |-                          |__ init __, __ repr __, .methods()                       | 
 
 
 
