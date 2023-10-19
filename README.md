@@ -103,7 +103,7 @@ Given by my career in academic research, my daily activities involed advanced st
 <p align="left">
 Here's also a compilation of Python natural language projects I've undertaken for educational purposes. Feel free to click on the project name to explore the details of each project. 
 
-| ID | Project Name / Dataset                                                                       | NLP Facet Showcased                                       | Package in Focus  | Module                    | Function(s)                           |
+| ID | Project Name                                                                                 | NLP Facet Showcased                                       | Package in Focus  | Module                    | Function(s)                           |
 | -- |---------------------------------------------------------------------------------------       |------------------------------------                       |-------------------|---------------------------|---------------------------------------|
 | 1 | [Classical Texts](https://github.com/MarcLinderGit/Classic_Texts)                             | Language Parsing                                          |nltk               |                           |RegexpParser()                         | 
 | 2 | [Mystery Friend](https://github.com/MarcLinderGit/mystery_friend)                             | Bag-of-Words Language Quantification                      |sklearn            |.feature_extraction.text   |CountVectorizer()                      |
@@ -118,7 +118,7 @@ Here's also a compilation of Python natural language projects I've undertaken fo
 <p align="left">
 In addition, I am currently working on extending my knowledge on machine learning engineering. Feel free to click on the project name to explore the details of each project. 
 
-| ID | Project Name / Dataset                                                                       | NLP Facet Showcased                                       | Package in Focus  | Module                    | Function(s)                           |
+| ID | Project Name                                                                                 | NLP Facet Showcased                                       | Package in Focus  | Module                    | Function(s)                           |
 | -- |---------------------------------------------------------------------------------------       |------------------------------------                       |-------------------|---------------------------|---------------------------------------|
 | 1 | [Hierarchical Classes](https://github.com/MarcLinderGit/Hierarchical_Classes)                 | Hierarchical Classes, Object-Orienter Programming         |-                  |-                          |__ init __, __ repr __, .methods()     | 
 | 2 | [ATM Logging](https://github.com/MarcLinderGit/ATM_logging)                                   | Logging                                                   |logging            |Stream/FileHandler, etc.   |logger()                               | 
