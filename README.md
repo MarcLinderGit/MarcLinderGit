@@ -120,7 +120,9 @@ In addition, I am currently working on extending my knowledge on machine learnin
 
 | ID | Project Name / Dataset                                                                       | NLP Facet Showcased                                       | Package in Focus  | Module                    | Function(s)                           |
 | -- |---------------------------------------------------------------------------------------       |------------------------------------                       |-------------------|---------------------------|---------------------------------------|
-| 1 | [Hierarchical Classes](https://github.com/MarcLinderGit/Hierarchical_Classes)                 | Hierarchical Classes, Object-Orienter Programming         |-                  |-                          |__ init __, __ repr __, .methods()                       | 
+| 1 | [Hierarchical Classes](https://github.com/MarcLinderGit/Hierarchical_Classes)                 | Hierarchical Classes, Object-Orienter Programming         |-                  |-                          |__ init __, __ repr __, .methods()     | 
+| 2 | [ATM Logging](https://github.com/MarcLinderGit/ATM_logging)                                   | Logging                                                   |logging            |Stream/FileHandler, etc.   |logger()                               | 
+
 
 
 
