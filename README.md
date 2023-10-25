@@ -125,6 +125,8 @@ In addition, I am currently working on extending my knowledge on machine learnin
 | 2 | [ATM Logging](https://github.com/MarcLinderGit/ATM_logging)                                   | Logging                                                   |logging            |Stream/FileHandler, etc.             |logger()                                         | 
 | 3 | [Surf Shop](https://github.com/MarcLinderGit/Surf_Shop)                                       | Unit Testing                                              |-                  |unittest                             |self.assertRaises, self.subTest(), self.assert.. | 
 | 4 | [Concurrent Programming](https://github.com/MarcLinderGit/Concurrent_Programming)             | Sequential, Async, Threading & Multiprocessing Progamming |-                  |threading, asnycio, multiprocessing  |Thread(), Process()                              | 
+| 5 | [Bone Marrow Disease Classification](https://github.com/MarcLinderGit/ML_Pipelines)           | Machine Learning Pipelines                                |sklearn            |pipeline                             |Pipeline(), ColumnTransformer()                  | 
+
 
 
 
