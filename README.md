@@ -118,10 +118,11 @@ Here's also a compilation of Python natural language projects I've undertaken fo
 <p align="left">
 In addition, I am currently working on extending my knowledge on machine learning engineering. Feel free to click on the project name to explore the details of each project. 
 
-| ID | Project Name                                                                                 | NLP Facet Showcased                                       | Package in Focus  | Module                    | Function(s)                           |
-| -- |---------------------------------------------------------------------------------------       |------------------------------------                       |-------------------|---------------------------|---------------------------------------|
-| 1 | [Hierarchical Classes](https://github.com/MarcLinderGit/Hierarchical_Classes)                 | Hierarchical Classes, Object-Orienter Programming         |-                  |-                          |__ init __, __ repr __, .methods()     | 
-| 2 | [ATM Logging](https://github.com/MarcLinderGit/ATM_logging)                                   | Logging                                                   |logging            |Stream/FileHandler, etc.   |logger()                               | 
+| ID | Project Name                                                                                 | NLP Facet Showcased                                       | Package in Focus  | Module                    | Function(s)                                     |
+| -- |---------------------------------------------------------------------------------------       |------------------------------------                       |-------------------|---------------------------|---------------------------------------          |
+| 1 | [Hierarchical Classes](https://github.com/MarcLinderGit/Hierarchical_Classes)                 | Hierarchical Classes, Object-Orienter Programming         |-                  |-                          |__ init __, __ repr __, .methods()               | 
+| 2 | [ATM Logging](https://github.com/MarcLinderGit/ATM_logging)                                   | Logging                                                   |logging            |Stream/FileHandler, etc.   |logger()                                         | 
+| 3 | [Surf Shop](https://github.com/MarcLinderGit/Surf_Shop)                                       | Unit Testing                                              |unittest           |                           |self.assertRaises, self.subTest(), self.assert.. | 
 
 
 
