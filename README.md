@@ -100,7 +100,7 @@ Given by my career in academic research, my daily activities involed advanced st
 | 16 | [Email Similarity](https://github.com/MarcLinderGit/email_similarity)                    | Naive Bayes Classification                |sklearn                |.naive_bayes       |MultinomialNB()                                                        |
 | 17 | [Logic Gates](https://github.com/MarcLinderGit/logic_gates)                              | Perceptrons                               |sklearn                |.linear_model      |Perceptron()                                                           |
 
-<h3 align="left">Natrual Language Processing</h3>
+<h3 align="left">Natural Language Processing</h3>
 <p align="left">
 Here's also a compilation of Python natural language projects I've undertaken for educational purposes. Feel free to click on the project name to explore the details of each project. 
 
