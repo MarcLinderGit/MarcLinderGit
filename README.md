@@ -213,5 +213,4 @@ Here's a selection (in alphabetic order) of the packages/platforms/libraries I h
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marclindergit&theme=nord" alt="marclindergit" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marclindergit&show_icons=true&locale=en" alt="marclindergit" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marclindergit&" alt="marclindergit" /></p>
 <div align="center">
