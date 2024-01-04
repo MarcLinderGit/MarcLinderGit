@@ -100,6 +100,17 @@ Given by my career in academic research, my daily activities involed advanced st
 | 16 | [Email Similarity](https://github.com/MarcLinderGit/email_similarity)                    | Naive Bayes Classification                |sklearn                |.naive_bayes       |MultinomialNB()                                                        |
 | 17 | [Logic Gates](https://github.com/MarcLinderGit/logic_gates)                              | Perceptrons                               |sklearn                |.linear_model      |Perceptron()                                                           |
 
+<h3 align="left">Deep Learning (Specialized)</h3>
+<p align="left">
+Here's also a compilation of Python deep learning projects I've undertaken for educational purposes. Current focus lies on exploring tensorflow/keras at depth. Feel free to click on the project name to explore the details of each project. 
+
+| ID | Project Name                                                                                 | NLP Facet Showcased                                       | Package in Focus  | Module                    | Function(s)                                     |
+| -- |---------------------------------------------------------------------------------------       |------------------------------------                       |-------------------|---------------------------|---------------------------------------          |
+| 1  | [Predicting Graduate Admission](https://github.com/MarcLinderGit/admission_data)             | Simple Regression/Prediction using Deep Learning          |tensorflow         |.keras                     |KerasRegressor  / output activation = 'linear'   | 
+| 2  | [Predicting Life Expectancy](https://github.com/MarcLinderGit/life_expectancy)               | Simple Regression/Prediction using Deep Learning          |tensorflow         |.keras                     |KerasRegressor  / output activation = 'linear'   |
+| 3  | [Predicting Heart Failure](https://github.com/MarcLinderGit/heart_failure)                   | Simple Classification using Deep Learning                 |tensorflow         |.keras                     |KerasClassifier / output activation = 'softmax'  | 
+| 4  | [Neural Machine Translation (NMT)](https://github.com/MarcLinderGit/Machine_Translations)    | Long short-term memory networks (LSTMs)                   |tensorflow         |.keras                     |LSTM()                                            
+
 <h3 align="left">Natural Language Processing</h3>
 <p align="left">
 Here's also a compilation of Python natural language projects I've undertaken for educational purposes. Feel free to click on the project name to explore the details of each project. 
@@ -110,10 +121,9 @@ Here's also a compilation of Python natural language projects I've undertaken fo
 | 2 | [Mystery Friend](https://github.com/MarcLinderGit/mystery_friend)                             | Bag-of-Words Language Quantification                      |sklearn            |.feature_extraction.text   |CountVectorizer()                      |
 | 3 | [News Content](https://github.com/MarcLinderGit/news_content)                                 | Term Frequency-Inverse Document Frequency (tf-idf)        |sklearn            |.feature_extraction.text   |TfidfTransformer(), TfidfVectorizer()  |
 | 4 | [Presidential Vocabulary](https://github.com/MarcLinderGit/Presidential_Vocabulary)           | Topic Modelling (Word Embeddings)                         |gensim             |.models                    |Word2Vec()                             |
-| 5 | [Neural Machine Translation (NMT)](https://github.com/MarcLinderGit/Machine_Translations)     | Long short-term memory networks (LSTMs)                   |tensorflow         |.keras                     |LSTM()                                 |
-| 6 | [Multi-Topic Chatbot](https://github.com/MarcLinderGit/multi_chatbot)                         | Rule-based chatbot using regex                            |re                 |                           |match()                                |
-| 7 | [Denver Broncos Restaurant Chatbot](https://github.com/MarcLinderGit/broncos_restaurant_bot)  | Retrieval-based chatbot using topic modelling             |misc.              |misc.                      |TfidfTransformer(),  Word2Vec()        |
-| 8 | [Generative Chatbot](https://github.com/MarcLinderGit/generative_chatbot)                     | Generative chatbot using topic modelling                  |misc.              |misc.                      |TfidfTransformer(),  Word2Vec()        |
+| 5 | [Multi-Topic Chatbot](https://github.com/MarcLinderGit/multi_chatbot)                         | Rule-based chatbot using regex                            |re                 |                           |match()                                |
+| 6 | [Denver Broncos Restaurant Chatbot](https://github.com/MarcLinderGit/broncos_restaurant_bot)  | Retrieval-based chatbot using topic modelling             |misc.              |misc.                      |TfidfTransformer(),  Word2Vec()        |
+| 7 | [Generative Chatbot](https://github.com/MarcLinderGit/generative_chatbot)                     | Generative chatbot using topic modelling                  |misc.              |misc.                      |TfidfTransformer(),  Word2Vec()        |
 
 <h3 align="left">Machine Learning Engineering</h3>
 <p align="left">
