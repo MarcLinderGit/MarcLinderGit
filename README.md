@@ -104,12 +104,14 @@ Given by my career in academic research, my daily activities involed advanced st
 <p align="left">
 Here's also a compilation of Python deep learning projects I've undertaken for educational purposes. Current focus lies on exploring tensorflow/keras at depth. Feel free to click on the project name to explore the details of each project. 
 
-| ID | Project Name                                                                                 | NLP Facet Showcased                                       | Package in Focus  | Module                    | Function(s)                                     |
+| ID | Project Name                                                                                 | Deep Learning Concepts Showcased                          | Package in Focus  | Module                    | Function(s)                                     |
 | -- |---------------------------------------------------------------------------------------       |------------------------------------                       |-------------------|---------------------------|---------------------------------------          |
 | 1  | [Predicting Graduate Admission](https://github.com/MarcLinderGit/admission_data)             | Simple Regression/Prediction using Deep Learning          |tensorflow         |.keras                     |KerasRegressor  / output activation = 'linear'   | 
 | 2  | [Predicting Life Expectancy](https://github.com/MarcLinderGit/life_expectancy)               | Simple Regression/Prediction using Deep Learning          |tensorflow         |.keras                     |KerasRegressor  / output activation = 'linear'   |
 | 3  | [Predicting Heart Failure](https://github.com/MarcLinderGit/heart_failure)                   | Simple Classification using Deep Learning                 |tensorflow         |.keras                     |KerasClassifier / output activation = 'softmax'  | 
-| 4  | [Neural Machine Translation (NMT)](https://github.com/MarcLinderGit/Machine_Translations)    | Long short-term memory networks (LSTMs)                   |tensorflow         |.keras                     |LSTM()                                            
+| 4  | [Neural Machine Translation (NMT)](https://github.com/MarcLinderGit/Machine_Translations)    | Long short-term memory networks (LSTMs)                   |tensorflow         |.keras                     |LSTM()                                           |
+| 5  | [Classifying Galaxy Images](https://github.com/MarcLinderGit/galaxies)                       | Convolutional Neural Networks                             |tensorflow         |.keras                     |Conv2D(), MaxPooling()                           |
+
 
 <h3 align="left">Natural Language Processing</h3>
 <p align="left">
@@ -129,7 +131,7 @@ Here's also a compilation of Python natural language projects I've undertaken fo
 <p align="left">
 In addition, I am currently working on extending my knowledge on machine learning engineering. Feel free to click on the project name to explore the details of each project. 
 
-| ID | Project Name                                                                                 | NLP Facet Showcased                                       | Package in Focus  | Module                              | Function(s)                                     |
+| ID | Project Name                                                                                 | ML Facet Showcased                                       | Package in Focus  | Module                              | Function(s)                                     |
 | -- |---------------------------------------------------------------------------------------       |------------------------------------                       |-------------------|---------------------------          |---------------------------------------          |
 | 1 | [Hierarchical Classes](https://github.com/MarcLinderGit/Hierarchical_Classes)                 | Hierarchical Classes, Object-Orienter Programming         |-                  |-                                    |__ init __, __ repr __, .methods()               | 
 | 2 | [ATM Logging](https://github.com/MarcLinderGit/ATM_logging)                                   | Logging                                                   |logging            |Stream/FileHandler, etc.             |logger()                                         | 
