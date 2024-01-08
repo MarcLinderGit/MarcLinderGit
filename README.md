@@ -111,6 +111,7 @@ Here's also a compilation of Python deep learning projects I've undertaken for e
 | 3  | [Predicting Heart Failure](https://github.com/MarcLinderGit/heart_failure)                   | Simple Classification using Deep Learning                 |tensorflow         |.keras                     |KerasClassifier / output activation = 'softmax'  | 
 | 4  | [Neural Machine Translation (NMT)](https://github.com/MarcLinderGit/Machine_Translations)    | Long short-term memory networks (LSTMs)                   |tensorflow         |.keras                     |LSTM()                                           |
 | 5  | [Classifying Galaxy Images](https://github.com/MarcLinderGit/galaxies)                       | Convolutional Neural Networks                             |tensorflow         |.keras                     |Conv2D(), MaxPooling()                           |
+| 6  | [Classifying X-rays](https://github.com/MarcLinderGit/X-Rays)                                | Convolutional Neural Networks / Computer Vision           |tensorflow         |.keras                     |Conv2D(), MaxPooling()                           |
 
 
 <h3 align="left">Natural Language Processing</h3>
